@@ -1,1 +1,1 @@
-# computaci-n_para_ingeneria
+# computacion_para_ingeneria
